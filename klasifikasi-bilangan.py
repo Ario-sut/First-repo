@@ -31,7 +31,7 @@ def klasifikasi(arr):
     return ProPos, ProNeg, ProNol
 
 print(klasifikasi([1, 0, 3, -4, -7, 8]))
-print("-"*100)
+print("="*100)
 # Hitunglah sebuah nilai di arr yang merupakan angka yang habis di bagi 3
 # 6 
 # 1 3 2 6 1 2
